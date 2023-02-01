@@ -1,4 +1,4 @@
-# API REST Clínica Médica | REST API Medical Clinic
+# API REST Web Service Clínica Médica | REST Web Service API Medical Clinic
 [PT-BR]
 
 Clínica médica fictícia desenvolvida na Formação de Java e Spring Boot da Alura.
