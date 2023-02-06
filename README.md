@@ -10,9 +10,10 @@ Fictitious medical clinic developed in Alura's Java and Spring Boot Training.
 The implementation of the classes related to "Médico" (Doctor) was done according to the course references. And the implementation of classes related to "Paciente" (Patient) were implemented by myself.
 
 # Tecnologias | Technologies
-- Java;
+- Java 17;
 - MySQL;
 - Spring Boot;
+- Hibernate + JPA;
 - Maven.
 
 
